@@ -35,6 +35,7 @@ The analysis provided insights into production performance and scrap trends over
 - `production.ipynb`: Python notebook with all data analysis and visualizations.
 - `Üretim.xlsx`: Excel file with the raw production data.
 - `Üretim_raporu.pbix`: Power BI dashboard file containing interactive visualizations.
+- `Üretim_raporu.pdf`: Power BI dashboard file.
 
 ## Conclusion
 
